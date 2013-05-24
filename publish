@@ -1,0 +1,10 @@
+#!/bin/bash
+
+pandoc --css=http://twitter.github.io/bootstrap/assets/css/bootstrap.css \
+       --css=http://twitter.github.io/bootstrap/assets/css/bootstrap-responsive.css \
+       --include-before=before.html \
+       --include-after=after.html \
+       --table-of-contents \
+       -t html5 \
+       -o CartaOrganica.html \
+       CartaOrganica.markdown
