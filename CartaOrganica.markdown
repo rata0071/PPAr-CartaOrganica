@@ -171,13 +171,13 @@ Si no hubiera Consenso, la propuesta pasará inmediatamente a un período de
 discusión y reformulación definido por reglamento, al cabo del cual pasará a la
 orden del día para la siguiente Asamblea General.
 
-Si hubiera acuerdo, quien inicialmente hiciere la propuesta será responsable
-ante la asamblea pertinente, sea local, general o de barco y deberá trabajar
-con otros piratas para llevarla a cabo en los plazos pautados. Conformará para
-ello un equipo de trabajo involucrando a todos los piratas que deseen
-participar.
+Si hubiera aprobación, tanto por Consenso como por Acuerdo, quien inicialmente
+hiciere la propuesta será responsable ante la asamblea pertinente, sea local,
+general o de barco y deberá trabajar con otros piratas para llevarla a cabo en
+los plazos pautados. Conformará para ello un equipo de trabajo involucrando a
+todos los piratas que deseen participar.
 
-En caso de no llegarse a acuerdo, la propuesta será guardada en un archivo
+En caso de no llegarse a Acuerdo, la propuesta será guardada en un archivo
 histórico para futuras consultas y referencias en caso de que nuevas propuestas
 guarden un parecido con alguna anterior.
 
@@ -195,7 +195,7 @@ Todas las decisiones del Partido, en cualquiera de sus instancias de decisión,
 se harán por Consenso. En caso existir Disenso Relevante en proporción definida
 por reglamento, se tomarán decisiones por Acuerdo.
 
-Habrá consenso sobre una propuesta cuando esta no cuente con la desaprobación
+Habrá Consenso sobre una propuesta cuando esta no cuente con la desaprobación
 de un porcentaje definido por reglamento no superior al 10% de los piratas
 afiliados participantes, es decir exista Disenso Relevante.
 
@@ -203,7 +203,7 @@ afiliados participantes, es decir exista Disenso Relevante.
 
 ### ARTÍCULO 10: ACUERDO
 
-Habrá acuerdo sobre una propuesta cuando esta cuente con la aprobación de un
+Habrá Acuerdo sobre una propuesta cuando esta cuente con la aprobación de un
 porcentaje a definir por reglamento no menor al 50% de los Piratas Afiliados
 Participantes de la Asamblea.
 
@@ -562,9 +562,12 @@ Título VIII - OTRAS DISPOSICIONES
 
 ### ARTÍCULO 28: DISOLUCIÓN DEL PARTIDO
 
-Mediante el Consenso de una Asamblea General convocada a tal efecto podra disolverse el Partido.
+Mediante el Consenso de una Asamblea General convocada a tal efecto podrá
+disolverse el Partido.
 
-Si hay dinero disponible debera realizarse una Fiesta Disolutiva donde se intentara gastar todo este dinero.
+Si hay dinero disponible debera realizarse una Fiesta Disolutiva donde se
+intentara gastar todo este dinero.
 
-Lo que no pudiese gastarse y demas bienes serán donados a una organización sin fines de lucro elegida por la última Asamblea General.
+Lo que no pudiese gastarse y demas bienes serán donados a una organización sin
+fines de lucro elegida por la última Asamblea General.
 
