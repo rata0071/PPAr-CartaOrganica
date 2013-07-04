@@ -24,17 +24,7 @@ la desaparición y el desalojo, del compartir fraternalmente, pero también por
 la capacidad de decidir y actuar colectivamente sobre nuestras vidas y
 bienestar.
 
-Creemos que la tecnología atraviesa todos estos temas pero que no resuelve por
-sí misma todos estos problemas.  Contra la tecnocracia, creemos que las
-tecnologías y su uso deben ser libres. -- todo eso en el sentido literal de
-tecnología eh
-
-La tecnología debe ayudarnos a construir esa sociedad libre, pero no delegamos
-en la tecnología la soberanía del pueblo. las soluciones no están en la
-tecnología, más bien en las decisiones politícas.  La vida se garantiza
-protegiendo las ecologías que componen nuestro entorno; La ecología ambiental o
-sea todo el entorno natural que nos rodea, desde el río a las montañas.  Para
-protegerla proponemos;
+### La soberanía
 
 Soberanía Alimentaria; que la decisión sobre como se producen nuestros
 alimentos y que alimentos se producen sea potestad del pueblo y en
@@ -47,7 +37,6 @@ las decisiones antojadizas y egoistas.
 Soberanía territorial; que la tierra sea de todos acceso democrático de la
 tierra, no a los latifundios, minifundios y concentracción de la tierra, si a
 la propiedad comunal y a las comunidades experimentales o alternativas.
-
 
 La Ecología Mental;
 
@@ -68,7 +57,8 @@ financiera e inmobiliaria, sin prestamos ni alquileres esclavizantes.
 
 La Ecología del Saber.
 
-Soberanía Educacional; que el acceso a la formación y autoformación sea democrática.
+Soberanía Educacional; que el acceso a la formación y autoformación sea
+democrática.
 
 Soberanía Tecnologica; acceso democratico a la tecnología
 
@@ -79,7 +69,7 @@ Soberanía cultural; acceso democrático y respeto a la cultura ancestral
 Soberanía Histórica; acceso a la Historia real y a la memoría.
 
 
-### lo publico
+### Lo Público
 
 No al abordaje represivo de los conflictos sociales. Solucion pacifica
 
@@ -104,11 +94,12 @@ de calidad para poder bajar y/oeliminar los subsidios a colegios privados.
 
 Salud publica, educación y prevención
 
-# derechos
+### Lo Privado
 
 Derechos civiles
 
-Garantizar los derechos y principios establecidos en la constitución como piso
+Garantizar como piso los derechos y principios establecidos en la Declaración
+de los Derechos Humanos y la Constitución Nacional.
 
 Derecho a un medio ambiente sin contaminación.
 
@@ -129,8 +120,6 @@ Libertad de expresion
 
 Derechos humanos
 
-### DNI
-
 Derecho al cuerpo y a la elección sexual. eliminación del sexo en el dni.
 
 eliminar datos biometricos
@@ -140,7 +129,19 @@ es para relacionar con la transparencia: transparencia estatal, privacidad
 personal
 
 
-### lo digital / acceso a la informacion
+### Lo Común
+
+Creemos que la tecnología atraviesa todos estos temas pero que no resuelve por
+sí misma todos estos problemas.  Contra la tecnocracia, creemos que las
+tecnologías y su uso deben ser libres. -- todo eso en el sentido literal de
+tecnología eh
+
+La tecnología debe ayudarnos a construir esa sociedad libre, pero no delegamos
+en la tecnología la soberanía del pueblo. las soluciones no están en la
+tecnología, más bien en las decisiones politícas.  La vida se garantiza
+protegiendo las ecologías que componen nuestro entorno; La ecología ambiental o
+sea todo el entorno natural que nos rodea, desde el río a las montañas.  Para
+protegerla proponemos;
 
 Que el gobierno use, fomente, genere y proteja el sofware libre.
 
