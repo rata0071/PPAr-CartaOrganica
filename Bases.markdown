@@ -63,7 +63,7 @@ desde el espacio publico el consumo irresponsable e ilimitado de productos
 innecesarios, nocivos y efimeros.
 
 Soberanía habitacional; acceso general a la vivienda libre de la especulacion
-financiera e inmobiliaria, sin prestamos ni alquileres esclavizantes. 
+financiera e inmobiliaria, sin prestamos ni alquileres esclavizantes.
 
 
 La Ecología del Saber.
@@ -78,8 +78,83 @@ Soberanía cultural; acceso democrático y respeto a la cultura ancestral
 
 Soberanía Histórica; acceso a la Historia real y a la memoría.
 
+
+### lo publico
+
 No al abordaje represivo de los conflictos sociales. Solucion pacifica
 
+transparencia del estado
+
+Educación pública y educación popular / autoformación / hackuelas (piedra libre
+galleguindio)
+
+Medios de comunicación y redes informáticas como espacios publicos
+
+Acceso a la Educación
+
+Educación integral.
+
+Educación publica, popular y autoformación.
+
+Autodeterminación de los estudiantes.
+
+Bajar los subsidios a la educacion privada para recuperar la educacion publica
+Fomentar la creacion recuperacion y armado de nuevos establecimientos publicos
+de calidad para poder bajar y/oeliminar los subsidios a colegios privados.
+
+Salud publica, educación y prevención
+
+# derechos
+
+Derechos civiles
+
+Garantizar los derechos y principios establecidos en la constitución como piso
+
+Derecho a un medio ambiente sin contaminación.
+
+Pueblos originarios, territorio, cultura y autonomía.
+
+Estado plurinacional
+
+Integración regional pluricultural
+
+Respeto a todas las culturas que conforman la Argentina, prestando especial
+atencion al permitir a los diversos miembros de esas cultura mantener las
+mismas y poder mantener su autonomia de ser esa su eleccion.
+
+Acceso a la tierra minima necesaria para la autosustentacion familiar y a la
+vivienda propia
+
+Libertad de expresion
+
+Derechos humanos
+
+### DNI
+
+Derecho al cuerpo y a la elección sexual. eliminación del sexo en el dni.
+
+eliminar datos biometricos
+
+(Ni el Estado ni las corporaciones tienen privacidad, no son personas) < esto
+es para relacionar con la transparencia: transparencia estatal, privacidad
+personal
+
+
+### lo digital / acceso a la informacion
+
+Que el gobierno use, fomente, genere y proteja el sofware libre.
+
+Neutralidad de la red y acceso garantizado a internet
+
+Todo lo que se publique en universidades publicas salga con licencia CC  y que
+haya copia en castellano.
+
+Favorecer la variedad y pluralidad de las fuentes de información independientes
+
+Reforma del Derecho de Autor, [esto en algún lugar habría que ponerlo
+
+mas que reforma se tendria que ver de controlar mejor el actual Copyrigth,
+reducir la cantidad de años, por ejemplo
 
 Cultura libre / Acceso a la información  <-- sin quedarse en lo digital
 
@@ -93,99 +168,15 @@ Libre ejercicio de la copia privada.
 
 Centros culturales y barriales
 
-Reforma del Derecho de Autor, [esto en algún lugar habría que ponerlo
-
-mas que reforma se tendria que ver de controlar mejor el actual Copyrigth,
-reducir la cantidad de años, por ejemplo
-
-Protección de datos personales y respeto a la privacidad. No a la biometría.
-
-
-(Ni el Estado ni las corporaciones tienen privacidad, no son personas) < esto
-es para relacionar con la transparencia: transparencia estatal, privacidad
-personal
-
-
-Educación pública y educación popular / autoformación / hackuelas (piedra libre
-galleguindio)
-
-
 Derecho a la vida digital / Acceso a Internet / Neutralidad de la red
 
-
-Medios de comunicación y redes informáticas como espacios publicos
-
-
-Acceso a la Educación
-
-
-Educación integral.
-
-
-Educación publica, popular y autoformación.
-
-
-Acceso libre y gratuito al material de estudio. <-- no seamos redundantes, si
-se fomenta compartir esto ya está hecho <-- si porque se relacionan las cosas,
-sino ponemos "libertad!" y expandimos de ahi :P
-
+Acceso libre y gratuito al material de estudio.
 
 Fomentar el acceso a nuevas tecnologías libres y capacitación técnica para
 contribuir a la formación, educación ,acceso,uso y apropiación de las
 tecnologías de la información y comunicación.
 
-
-Autodeterminación de los estudiantes.
-
-
-Bajar los subsidios a la educacion privada para recuperar la educacion publica
-Fomentar la creacion recuperacion y armado de nuevos establecimientos publicos
-de calidad para poder bajar y/oeliminar los subsidios a colegios privados.
-
-
-Salud publica, educación y prevención
-
-
-Favorecer la variedad y pluralidad de las fuentes de información independientes
-
-
-Derechos civiles
-
-
-Garantizar los derechos y principios establecidos en la constitución <-- esta
-no se si va si queremos cambiar la constitucion(tendríamos que especificar qué)
-
-
-Derecho a un medio ambiente sin contaminación.
-
-
-Pueblos originarios, territorio, cultura y autonomía. <-- demasiado generico..
-Estado plurinacional a lo boliviano? <-- suena bien
-
-Respeto a todas las culturas que conforman la republica Argentina, prentando
-especial atencion al permitir a los diversos miembros de esas cultura mantener
-las mismas y poder mantener su autonomia de ser esa su eleccion.
-
-
-Acceso a la tierra minima necesaria para la autosustentacion familiar y a la
-vivienda propia
-
-Neutralidad de la red y acceso garantizado a internet
-
-Libertad de expresion
-
-Integración regional pluricultural
-
-Derecho al cuerpo y a la elección sexual  (Eliminar de los dni , al menos de
-los nuevos el sexo) <--¿Demasiado especifico? me gusta eh (y ya que estamos los
-datos biometricos tambien)
-
-Derechos humanos
-
-Que el gobierno use, fomente, genere y proteja el sofware libre. 
-
-Todo lo que se publique en universidades publicas salga con licencia CC  y que
-haya copia en castellano. <-- mmm Nose... eso seria un garron.??
+Protección de datos personales y respeto a la privacidad. No a la biometría.
 
 
 ## Participación política
